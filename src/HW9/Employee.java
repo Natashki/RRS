@@ -1,3 +1,5 @@
+package HW9;
+
 public class Employee extends Person {
 
 //    Необходимо создать класс Employee с полями как у Person (из предыдущего задания) и поле зарплата.
@@ -12,7 +14,7 @@ public class Employee extends Person {
     }
 
 
-    boolean isSameName(Employee employee){
+    public boolean isSameName(Employee employee){
         return this.name.equals(employee.name);
 
     }
