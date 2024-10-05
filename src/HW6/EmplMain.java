@@ -1,4 +1,4 @@
-package HW7;
+package HW6;
 
 public class EmplMain {
     public static void main(String[] args){

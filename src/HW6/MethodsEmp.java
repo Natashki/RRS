@@ -1,8 +1,8 @@
-package HW7;
+package HW6;
 
 public class MethodsEmp {
 
-    //поиск сотрудника в массиве по его именипоиск сотрудника в массиве по его имени
+    //поиск сотрудника в массиве по его имени
     public static void findEmployeeName(Employee[] workers, String name) {
         for (Employee worker : workers) {
             if (worker.getName().equals(name)) {

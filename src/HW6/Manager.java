@@ -1,4 +1,4 @@
-package HW7;
+package HW6;
 
 public class Manager extends Employee {
     int subordinates;
