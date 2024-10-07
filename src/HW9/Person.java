@@ -5,9 +5,9 @@ public class Person {
 
     String name;
     int age;
-    char sex;
+    String sex;
 
-    public Person(String name, int age, char sex) {
+    public Person(String name, int age, String sex) {
         this.name = name;
         this.age = age;
         this.sex = sex;
@@ -15,9 +15,9 @@ public class Person {
 
     //  Класс должен иметь метод - getName, метод возвращает имя с префиксом “Mr. ” если пол указан как мужской и префикс “Mrs. ” если женский.
     public String getName(){
-        if(sex == 'f'){
+        if(sex.equals("f")){
             return "Mrs " + name;
-        } else if (sex == 'm'){
+        } else if (sex.equals("m")){
             return "Mr " + name;
         } else {
             return name;
