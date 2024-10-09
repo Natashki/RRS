@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a2fd8a29-79d0-4adf-ab6d-243b98e5fd75" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW13/HW13_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW13/HW13_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HW13_1.executor": "Run",
-    "Application.HW13_2.executor": "Run",
-    "Application.HW13_2and3.executor": "Run",
-    "Application.HW13_4.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/RRS-HW-JAVA/RRS",
-    "onboarding.tips.debug.path": "C:/Users/Maxim/IdeaProjects/RRS.git/RRS/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HW13_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW13_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW13_2and3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW13_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/RRS-HW-JAVA/RRS&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Maxim/IdeaProjects/RRS.git/RRS/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.HW13_4">
     <configuration name="HW13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW13.HW13_1" />
