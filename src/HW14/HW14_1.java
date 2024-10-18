@@ -1,10 +1,10 @@
-package HW13;
+package HW14;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class HW13_1 {
+public class HW14_1 {
 
 //    Создать лист и добавить в него следующие слова:
 //    White.

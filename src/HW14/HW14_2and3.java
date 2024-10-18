@@ -1,9 +1,9 @@
-package HW13;
+package HW14;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class HW13_2and3 {
+public class HW14_2and3 {
 //    Создать лист со значениями от 100 до 1000.
 public static void main(String[] args){
     List<Integer> numbers = new ArrayList<>();

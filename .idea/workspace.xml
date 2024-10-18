@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a2fd8a29-79d0-4adf-ab6d-243b98e5fd75" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW13/HW13_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW13/HW13_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW13_4">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HW13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW13.HW13_1" />
       <module name="RRS" />
@@ -98,10 +97,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HW13_4" />
         <item itemvalue="Application.HW13_2and3" />
         <item itemvalue="Application.HW13_1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

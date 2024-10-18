@@ -1,8 +1,8 @@
-package HW13;
+package HW14;
 
 import java.util.*;
 
-public class HW13_4 {
+public class HW14_4 {
 //    Найти наиболее часто встречающееся слово в следующем тексте:
 
     public static void main(String[] args) {
